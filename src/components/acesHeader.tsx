@@ -4,7 +4,7 @@ export const ACESHeader = () => {
   return (
     <div className="flex flex-col mb-2 space-y-6 header">
       <div className="flex items-center justify-center">
-        <Link href="https://aces-rmdssoe.tech">
+        <Link href="https://aces-rmdssoe.in">
           <img
             src="https://res.cloudinary.com/dygc8r0pv/image/upload/v1734452294/ACES_Logo_ACE_White_d6rz6a.png"
             alt="ACES Logo"
